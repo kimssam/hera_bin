@@ -3,7 +3,8 @@
 @import url(https://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jomhuria&family=Julius+Sans+One&family=Lalezar&family=Staatliches&display=swap');
 html,body{
-	background-color:aqua;
+	background-color:hotpink;
+	font-size:30px;
 }
 .jeju{
 	font-family: 'Jeju Gothic', sans-serif;
